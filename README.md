@@ -4,6 +4,19 @@ Per-app firewall and data tracker for Android. No root, no server, everything ru
 Built with Material 3, Jetpack Compose and Material You dynamic colors.
 
 <!-- SCREENSHOTS:START -->
+<p align="center">
+  <img src="screenshots/Screenshot_20261011_141914.jpg" width="30%" alt="Screenshot 1">
+  <img src="screenshots/Screenshot_20261011_141924.jpg" width="30%" alt="Screenshot 2">
+  <img src="screenshots/Screenshot_20261011_141929.jpg" width="30%" alt="Screenshot 3">
+  <img src="screenshots/Screenshot_20261011_141934.jpg" width="30%" alt="Screenshot 4">
+  <img src="screenshots/Screenshot_20261011_141939.jpg" width="30%" alt="Screenshot 5">
+  <img src="screenshots/Screenshot_20261011_141946.jpg" width="30%" alt="Screenshot 6">
+  <img src="screenshots/Screenshot_20261011_141948.jpg" width="30%" alt="Screenshot 7">
+  <img src="screenshots/Screenshot_20261011_141952.jpg" width="30%" alt="Screenshot 8">
+  <img src="screenshots/Screenshot_20261011_141955.jpg" width="30%" alt="Screenshot 9">
+  <img src="screenshots/Screenshot_20261011_141958.jpg" width="30%" alt="Screenshot 10">
+  <img src="screenshots/Screenshot_20261011_142007.jpg" width="30%" alt="Screenshot 11">
+</p>
 <!-- SCREENSHOTS:END -->
 
 ## Features
