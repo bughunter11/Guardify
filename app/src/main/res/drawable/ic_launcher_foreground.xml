@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Bahar ki shield (border) -->
+    <path
+        android:fillColor="@color/ic_logo_outer"
+        android:pathData="M54,24 L78,33 V54 C78,69 68,79 54,85 C40,79 30,69 30,54 V33 Z" />
+
+    <!-- Andar ki shield -->
+    <path
+        android:fillColor="@color/ic_logo_inner"
+        android:pathData="M54,28 L74.5,35.7 V54 C74.5,66.5 66.5,75.5 54,81 C41.5,75.5 33.5,66.5 33.5,54 V35.7 Z" />
+
+    <!-- Keyhole -->
+    <path
+        android:fillColor="@color/ic_logo_key"
+        android:pathData="M54,43.5 A5.5,5.5 0 0 1 57,53.6 L59,64 H49 L51,53.6 A5.5,5.5 0 0 1 54,43.5 Z" />
+</vector>

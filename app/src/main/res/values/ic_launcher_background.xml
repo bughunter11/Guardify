@@ -1,0 +1,7 @@
+<resources>
+    <!-- Android 10/11 fallback (dynamic color nahi hota) -->
+    <color name="ic_launcher_background">#2E6BE6</color>
+    <color name="ic_logo_outer">#DCE6FF</color>
+    <color name="ic_logo_inner">#0F2F73</color>
+    <color name="ic_logo_key">#FFD9A0</color>
+</resources>

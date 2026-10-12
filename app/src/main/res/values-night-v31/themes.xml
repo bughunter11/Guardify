@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Guardify" parent="@android:style/Theme.DeviceDefault.DayNight">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowSplashScreenBackground">@android:color/system_neutral1_900</item>
+    </style>
+</resources>

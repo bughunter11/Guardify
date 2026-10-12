@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Guardify</string>
+    <string name="tile_kill_label">Mobile data off</string>
+    <string name="tile_focus_label">Focus</string>
+    <string name="tile_roam_label">Roaming mode</string>
+    <string name="widget_label">Guardify controls</string>
+    <string name="widget_desc">One tap to block all mobile data or start focus.</string>
+</resources>
